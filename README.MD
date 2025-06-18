@@ -1,6 +1,6 @@
 # Stay Booker Hotel Booking Express API
 
-Welcome to the Stay Booker Hotel Booking Express API repository. This API serves as the backbone for the [Stay Booker Hotel Booking React Frontend](https://github.com/iZooGooD/stay-booker-hotel-booking-react-frontend), providing a robust backend solution for managing hotel bookings, user accounts, and more. Built with Express.js and integrated with MySQL through Sequelize, this project is designed to offer a seamless, efficient platform for hotel booking applications.
+Welcome to the Stay Booker Hotel Booking Express API repository. This API serves as the backbone for the [Stay Booker Hotel Booking React Frontend](https://github.com/Shashwatdeo/stay-booker-pro-reactjs.git), providing a robust backend solution for managing hotel bookings, user accounts, and more. Built with Express.js and integrated with MySQL through Sequelize, this project is designed to offer a seamless, efficient platform for hotel booking applications.
 
 ## Getting Started
 
